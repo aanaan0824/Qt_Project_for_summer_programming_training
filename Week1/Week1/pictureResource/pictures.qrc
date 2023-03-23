@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/new/picture">
+        <file>pictures/secondGate1.jpg</file>
+        <file>pictures/secondGate2.jpg</file>
+        <file>pictures/secondGate3.jpg</file>
+        <file>pictures/secondGate4.jpg</file>
+        <file>pictures/secondGate5.jpg</file>
+    </qresource>
+</RCC>

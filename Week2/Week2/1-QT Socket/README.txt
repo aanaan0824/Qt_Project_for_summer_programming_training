@@ -1,0 +1,1 @@
+需要把chatserver界面中显示的ip地址，设置到chatclient的connectToHost函数中。
